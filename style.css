@@ -1,0 +1,154 @@
+.header{
+    background-color: #1f2937;
+    padding: 0 400px 100px;
+    margin-bottom: 40px;
+}
+
+.firstline{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+    padding: 0;
+}
+
+.box{
+   max-width: 300px;
+   /* display: flex;
+   flex-direction: column;
+   gap: 50px; */
+}
+
+.picture{
+   height: 250px;
+   width: 500px;
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight:200;
+}
+
+.content{
+    font-size: 48px;
+    font-weight: bold;
+    color: #e5e7eb;
+    margin-bottom: 10px;
+}
+.introduce{
+   font-size: 18px;
+   color: #e5e7eb;
+   margin-bottom: 10px;
+}
+
+button{
+    background-color: #3882f6;
+    font-size: 20px;
+    color: #e5e7eb;
+    border-radius: 5px;
+    border-color: #3882f6;
+    width: 100px;
+}
+
+.secondline{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+  }
+
+.second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.second_head{
+   font-size: 36px;
+   font-weight: bold;
+   color: #1f2937;
+   margin-bottom: 40px;
+}
+.second_content{
+    display: flex;
+    gap: 50px;
+}
+
+.picture_1{
+   height: 200px;
+   width: 200px;
+   border-radius: 15px;
+}
+
+.container{
+    max-width: 200px;
+}
+
+.third{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.third_head{
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+    padding: 50px 550px 0 550px ;
+}
+
+.third_footer{
+    font-size: 26px;
+    font-weight: bold;
+    color: #1f2937;
+    padding: 0px 100px 50px 550px ;
+}
+
+.forth{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    padding: 50px 200px;
+    margin: 100px 400px;
+    border-radius: 15px;
+}
+
+.forth_head{
+    color: #e5e7eb;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.forth_content{
+    color: #e5e7eb;
+}
+
+#button{
+    border-color: #e5e7eb;
+    height: 40px;
+    margin-top: 15px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+}
+
+.footer_head{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 30px;
+    color: #e5e7eb;
+}
